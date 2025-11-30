@@ -52,7 +52,7 @@ h1{
 }
 .btn{
 	padding:10px 14px;
-	border-radius:10px;
+	border-radius:12px;
 	background: var(--primary);
 	color: #fff;
 	cursor: pointer;
